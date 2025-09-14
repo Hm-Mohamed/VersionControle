@@ -10,7 +10,4 @@ public with sharing class AddToCart {
 
     }
 
-    if( condition ){ 
-         hjikl
-     }
 }
