@@ -9,5 +9,12 @@ public with sharing class AddToCart {
     public AddToCart() {
 
     }
+  
+    public static void addCart(){
 
+    }
+
+    public static void fetchActiverCart(){
+        
+    }
 }
